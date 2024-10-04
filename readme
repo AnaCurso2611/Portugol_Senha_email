@@ -1,0 +1,32 @@
+# Sistema de Autenticação
+
+Este é um simples programa de autenticação escrito em Portugol. O programa solicita ao usuário um email e uma senha, e verifica se as credenciais estão corretas.
+
+## Funcionalidades
+
+- Solicita um email ao usuário.
+- Verifica se o email é o esperado.
+- Solicita a senha correspondente.
+- Verifica se a senha está entre as senhas permitidas.
+- Exibe mensagens de erro em caso de credenciais incorretas.
+
+## Como Usar
+
+1. Abra o seu ambiente de desenvolvimento que suporte Portugol.
+2. Copie o código do programa para o editor.
+3. Execute o programa.
+4. Siga as instruções na tela para inserir seu email e senha.
+
+## Estrutura do Código
+
+- A variável `email` contém o email esperado.
+- As variáveis `senha1`, `senha2` e `senha3` contêm as senhas válidas.
+- O programa verifica a validade do email e da senha, exibindo mensagens apropriadas.
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com melhorias ou correções. 
+
+## Licença
+
+Este projeto é de domínio público. Sinta-se livre para usá-lo como desejar.
