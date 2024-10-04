@@ -1,0 +1,11 @@
+# Ignorar arquivos temporários do ambiente de desenvolvimento
+*.tmp
+*.log
+
+# Ignorar arquivos de configuração específicos do ambiente
+*.config
+*.ini
+
+# Ignorar diretórios de saída
+output/
+bin/
